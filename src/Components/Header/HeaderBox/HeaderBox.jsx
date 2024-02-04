@@ -7,7 +7,7 @@ import PropTypes from 'prop-types'
 // HeaderBox component
 const HeaderBox = ({ number, title, border_right=true }) => (
     <div className={`${styles["header-box"]} ${border_right && styles["active-border-right"]} flex flex-column`}>
-        <h1>{`${number}k+`}</h1>
+        <h1>{`${number}+`}</h1>
         <h3>{ title }</h3>
     </div>
 )

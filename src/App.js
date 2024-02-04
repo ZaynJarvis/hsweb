@@ -18,27 +18,27 @@ const App = () => {
   const ddItems = [
     {
       id: 1,
-      title: "All Images",
+      title: "All Products",
       active: true
     },
     {
       id: 2,
-      title: "Topic Images",
+      title: "Topic Products",
       active: false
     },
     {
       id: 3,
-      title: "Nature Images",
+      title: "Special Requirements",
       active: false
     },
     {
       id: 4,
-      title: "NFT Images",
+      title: "New Ideas",
       active: false
     },
     {
       id: 5,
-      title: "Space Images",
+      title: "Discovery",
       active: false
     }
   ]
@@ -61,7 +61,7 @@ const App = () => {
         <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
           <ContainerCard>
               <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
-                <h1>All images</h1>
+                <h1>All products</h1>
                 <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
               <MasonryLayout images={categoryImage} />
