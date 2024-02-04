@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 // import styles of this component
 import styles from "./App.module.css"
@@ -43,7 +43,16 @@ const App = () => {
     }
   ]
 
-  const [categoryImage, setCategoryImage] = useState(images.categories.all)
+  useEffect(() => {
+    images.categories["all"] = Object.values(images.categories).reduce((accumulator, currentArray) => {
+      return accumulator.concat(currentArray);
+    }, []);
+
+    setCategoryImage([...images.categories.all]);
+    return () => {};
+  }, []);
+
+  const [categoryImage, setCategoryImage] = useState([])
 
   const takeDdTitle = (ddTitle) => {
     setCategoryImage(() => {
@@ -51,6 +60,7 @@ const App = () => {
         const titleSplited = ddTitle.toLowerCase().split(" ")[0]
         return item.toLowerCase().includes(titleSplited)
       })
+
       return [ ...images.categories[categoryChoose] ]
     })
   }
