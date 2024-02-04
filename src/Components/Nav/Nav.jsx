@@ -37,9 +37,10 @@ const Nav = () => {
             <Button theme="matrix">Sign up</Button>
         </div> */}
         <div className={styles["navbar-responsive-menu"]}>
-            <Button theme="transparent">
+            {/* used for mobile */}
+            {/* <Button theme="transparent">
                 <HambergerMenu size="32" color="var(--white-100)"/>
-            </Button>
+            </Button> */}
         </div>
     </nav>
   )

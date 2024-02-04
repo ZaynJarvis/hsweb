@@ -6,8 +6,8 @@
                 "src": "img/wallpapers/1.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Arash",
-                    "job": "Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -15,8 +15,8 @@
                 "src": "img/wallpapers/2.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
+                    "name": "France",
+                    "job": "2019-09"
                 }
             },
             {
@@ -24,8 +24,8 @@
                 "src": "img/wallpapers/3.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -33,8 +33,8 @@
                 "src": "img/wallpapers/4.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "James",
-                    "job": "editor"
+                    "name": "USA",
+                    "job": "2020-03"
                 }
             },
             {
@@ -42,8 +42,8 @@
                 "src": "img/wallpapers/5.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Mary",
-                    "job": "Developer"
+                    "name": "Vietnam",
+                    "job": "2023-04"
                 }
             },
             {
@@ -51,8 +51,8 @@
                 "src": "img/wallpapers/6.png",
                 "user": {
                     "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "name": "Singapore",
+                    "job": "2021-03"
                 }
             },
             {
@@ -60,8 +60,8 @@
                 "src": "img/wallpapers/7.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "name": "USA",
+                    "job": "2021-03"
                 }
             },
             {
@@ -69,8 +69,8 @@
                 "src": "img/wallpapers/8.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -78,8 +78,8 @@
                 "src": "img/wallpapers/9.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "name": "France",
+                    "job": "2015-09"
                 }
             },
             {
@@ -87,8 +87,8 @@
                 "src": "img/wallpapers/10.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Charles",
-                    "job": "Designer"
+                    "name": "USA",
+                    "job": "2015-09"
                 }
             },
             {
@@ -96,8 +96,8 @@
                 "src": "img/wallpapers/11.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Joshua",
-                    "job": "Developer"
+                    "name": "France",
+                    "job": "2023-04"
                 }
             },
             {
@@ -105,8 +105,8 @@
                 "src": "img/wallpapers/12.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "name": "Vietnam",
+                    "job": "2015-09"
                 }
             },
             {
@@ -114,7 +114,7 @@
                 "src": "img/wallpapers/13.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Larry",
+                    "name": "France",
                     "job": "photographer"
                 }
             },
@@ -123,8 +123,8 @@
                 "src": "img/wallpapers/14.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Eric",
-                    "job": "Editor"
+                    "name": "USA",
+                    "job": "2020-03"
                 }
             },
             {
@@ -132,19 +132,19 @@
                 "src": "img/wallpapers/15.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "name": "Vietnam",
+                    "job": "2015-09"
                 }
             }
         ],
-        "space": [
+        "top": [
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/6.png",
                 "user": {
                     "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "name": "Singapore",
+                    "job": "2021-03"
                 }
             },
             {
@@ -152,19 +152,19 @@
                 "src": "img/wallpapers/7.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "name": "USA",
+                    "job": "2021-03"
                 }
             }
         ],
-        "topic": [
+        "special": [
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/2.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Farbod",
-                    "job": "Scientist"
+                    "name": "France",
+                    "job": "2019-09"
                 }
             },
             {
@@ -172,8 +172,8 @@
                 "src": "img/wallpapers/3.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Anne",
-                    "job": "Graphic Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -181,8 +181,8 @@
                 "src": "img/wallpapers/4.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "James",
-                    "job": "editor"
+                    "name": "USA",
+                    "job": "2020-03"
                 }
             },
             {
@@ -190,8 +190,8 @@
                 "src": "img/wallpapers/5.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Mary",
-                    "job": "Developer"
+                    "name": "Vietnam",
+                    "job": "2023-04"
                 }
             },
             {
@@ -199,8 +199,8 @@
                 "src": "img/wallpapers/6.png",
                 "user": {
                     "src": "img/profile/3.png",
-                    "name": "Patricia",
-                    "job": "Front-End"
+                    "name": "Singapore",
+                    "job": "2021-03"
                 }
             },
             {
@@ -208,8 +208,8 @@
                 "src": "img/wallpapers/7.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Jennifer",
-                    "job": "Front-End"
+                    "name": "USA",
+                    "job": "2021-03"
                 }
             },
             {
@@ -217,8 +217,8 @@
                 "src": "img/wallpapers/8.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -226,19 +226,19 @@
                 "src": "img/wallpapers/10.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "name": "France",
+                    "job": "2015-09"
                 }
             }
         ],
-        "nature": [
+        "new": [
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/12.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Jacob",
-                    "job": "Ui/Ux Designer"
+                    "name": "Vietnam",
+                    "job": "2015-09"
                 }
             },
             {
@@ -246,8 +246,8 @@
                 "src": "img/wallpapers/14.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Eric",
-                    "job": "Editor"
+                    "name": "USA",
+                    "job": "2020-03"
                 }
             },
             {
@@ -255,19 +255,19 @@
                 "src": "img/wallpapers/15.png",
                 "user": {
                     "src": "img/profile/5.png",
-                    "name": "Justin",
-                    "job": "Designer"
+                    "name": "Vietnam",
+                    "job": "2015-09"
                 }
             }
         ],
-        "nft": [
+        "discovery": [
             {
                 "id": "wallpaper 1",
                 "src": "img/wallpapers/8.png",
                 "user": {
                     "src": "img/profile/1.png",
-                    "name": "Richard",
-                    "job": "Product Designer"
+                    "name": "China",
+                    "job": "2015-09"
                 }
             },
             {
@@ -275,8 +275,8 @@
                 "src": "img/wallpapers/9.png",
                 "user": {
                     "src": "img/profile/2.png",
-                    "name": "Joseph",
-                    "job": "Designer"
+                    "name": "France",
+                    "job": "2015-09"
                 }
             },
             {
@@ -284,8 +284,8 @@
                 "src": "img/wallpapers/10.png",
                 "user": {
                     "src": "img/profile/4.png",
-                    "name": "Charles",
-                    "job": "Designer"
+                    "name": "USA",
+                    "job": "2015-09"
                 }
             }
         ]

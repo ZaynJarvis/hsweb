@@ -23,12 +23,12 @@ const App = () => {
     },
     {
       id: 2,
-      title: "Topic Products",
+      title: "Top Products",
       active: false
     },
     {
       id: 3,
-      title: "Special Requirements",
+      title: "Special",
       active: false
     },
     {
@@ -62,7 +62,7 @@ const App = () => {
           <ContainerCard>
               <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
                 <h1>All products</h1>
-                <Dropdown title="All Images" items={ddItems} liftingDdTextUp={takeDdTitle} />
+                <Dropdown title="All Products" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
               <MasonryLayout images={categoryImage} />
           </ContainerCard>

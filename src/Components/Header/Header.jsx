@@ -8,8 +8,8 @@ import BrickLayout from "../BrickLayout/BrickLayout";
 import HeaderBoxes from "./HeaderBoxes/HeaderBoxes";
 
 // import something from react packages
-import { SearchNormal1 } from "iconsax-react";
-import { Setting4 } from "iconsax-react";
+import { MessageAdd } from "iconsax-react";
+import { Send2 } from "iconsax-react";
 
 // import jsons
 import JsonHeader from '../../Jsons/HeaderBoxes.json';
@@ -32,10 +32,10 @@ const Header = () => {
             </h1>
             
             <div className={`${styles["search-bar"]} flex align-items-center`}>
-              <SearchNormal1 size="30" color="var(--white-100)"/>
-              <input type="text" className={styles["search-input"]} placeholder="Search who can change the world" />
+              <MessageAdd size="30" color="var(--white-100)"/>
+              <input type="text" className={styles["search-input"]} placeholder="Leave your email to contact us" />
               <button className={`${styles["search-btn"]} flex justify-content-center align-items-center`}>
-                <Setting4 size="20" color="var(--dark-900)"/>
+                <Send2 size="20" color="var(--dark-900)"/>
               </button>
             </div>
 
