@@ -71,7 +71,7 @@ const App = () => {
         <div className="flex justify-content-center" style={{ marginTop: "50px", padding: '50px' }}>
           <ContainerCard>
               <div className={`${styles["gallery-setting"]} flex justify-content-between align-items-center`}>
-                <h1>All products</h1>
+                <h1>Our products</h1>
                 <Dropdown title="All Products" items={ddItems} liftingDdTextUp={takeDdTitle} />
               </div>
               <MasonryLayout images={categoryImage} />

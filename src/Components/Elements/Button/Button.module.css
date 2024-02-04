@@ -14,3 +14,10 @@
     background-color: transparent;
     color: var(--white-100);
 }
+
+
+@media screen and (max-width: 700px) {
+    .button {
+        display: none !important;
+    }
+}
