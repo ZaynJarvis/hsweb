@@ -25,7 +25,7 @@ const Header = () => {
           <BrickLayout />
           
           <div className={`${styles["headings-header"]} flex justify-content-center flex-column `}>
-            <h2 className={styles["heading-header-title"]}>Contact HuaSheng at <a href="mailto:zaynjarvis@gmail.com?subject=Consult for customizable street furniture or stainless steel products" target="_blank">zaynjarvis@gmail.com</a> for more info 😎🤘</h2>
+            <h2 className={styles["heading-header-title"]}>Contact <a href="mailto:zaynjarvis@gmail.com?subject=Consult for customizable street furniture or stainless steel products" target="_blank">zaynjarvis@gmail.com</a> for more info 😎🤘</h2>
             <h1 className={styles["heading-header-second-title"]}>
               Engineers make The world better <br />
               The designs makes the <span>world</span> better

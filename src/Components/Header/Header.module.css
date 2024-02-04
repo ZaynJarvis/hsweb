@@ -25,6 +25,10 @@
     color: var(--green-400);
     margin-left: 70px;
 }
+.heading-header-title a {
+    color: var(--green-white-100);
+    text-decoration: underline;
+}
 .heading-header-title::before {
     content: '';
     position: absolute;
